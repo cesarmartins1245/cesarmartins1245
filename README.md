@@ -29,5 +29,8 @@ Hi there, welcome to my GitHub 👋
 ##
   
 <div>
-![Snake animation](https://github.com/cesarmartins1245/cesarmartins1245/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/cesarmartins1245/cesarmartins1245/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+  
