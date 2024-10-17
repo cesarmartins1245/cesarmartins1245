@@ -8,9 +8,8 @@ Hi there, welcome to my GitHub 👋
 
 <div align="center">
   <a href="https://github.com/cesarmartins1245">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cesarmartins1245&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cesarmartins1245&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cesarmartins1245&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cesarmartins1245&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
